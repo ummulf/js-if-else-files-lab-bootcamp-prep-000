@@ -15,4 +15,3 @@ nodejs index.js
 
 module.exports = { name, height
 }
-
